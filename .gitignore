@@ -1,0 +1,19 @@
+# Ignore virtual environment
+venv/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore environment file
+.env
+
+# Ignore logs
+logs/
+logger.handlers
+
+# Ignore vector database
+vector_store/
+
+# Ignore MedQuAD dataset
+data/
